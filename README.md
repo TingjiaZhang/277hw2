@@ -1,1 +1,1 @@
-# 277hw2
+# 277hw2 topic:Topic1 iOS: SwiftUI with combine to display the news from news/twitter apis. You need to have the news list view with a search bar and news detail view. Using combine and networking for the search bar.
